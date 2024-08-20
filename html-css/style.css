@@ -1,0 +1,132 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+    .parent-container {        declaration
+        position: relative;
+
+        background-color: beige;    
+    */
+
+
+
+
+    Body {
+        background_color: #beige;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+ 
+      img{
+       width: 250px;
+    height: 250px;
+    }
+
+* Grabbing id seclector with a value of */
+urgent {
+    color: red;
+
+    * Grabbing class selector with a value of urgent */
+urgent {
+    color: black;
+    text-decoration: none;
+    font-size: 18pt;
+}
+
+        */Grabbing  class selector with a value of new nav-link */
+.nav-link{
+    color: black;
+        text-decoration: none;
+        font-size: 10pt}
+}
+
+.nav-link:hover {
+    color: salmon;
+}
+
+    h?Absolute
+    : 3px solid orangered;
+    padding: 2cm;
+    }
+
+footer {
+    margin_bottom: 2cm;
+    border
+}
+#main-container {
+    margin-bottom: 2cm;
+    border: 2px solid black;
+    padding: 1cm;
+}
+
+.outer {
+    border: 2px solid lightslategray;
+    width: 150px;
+    height: 150px;
+    background-color: lightslategray;
+    margin: 1cmpadding: 10px;
+padding: 1opx;
+}
+
+.inner {
+    border: 2px solid antiquewhite;
+    width: 75px;
+    height: 75px;
+    background-color: antiquewhite;
+    padding: 1cm;
+    margin: 2cm;
+}
+
+*/
+? Order of Specificity
+!important, inline, element, class, :id;
+*/
+
+#id {
+    color: red;
+}
+
+
+.class {
+    color: blue;
+}
+
+h2 {
+    color: purple;
+{
+
+    ?*
+    ? Display transition-property;
+    *treats an element as block or inline
+    *block is created top-bottom; spans full page width
+    *inline is created side-by-side; spans witdh of its contents
+    */
+
+    .display-container {
+        margin: top 2cm; ;
+    }   
+
+    .block-container {
+        border: 2px solid black;
+        margin: 
+}
+}
+
+
+
+.inline-element {
+    /* display:block: */
+.inline-element {
+    border: 2px solid black;
+    margin 5px;
+    
+}
+}display: inline-block;
+width: 250px;
+}
+
+.float-box {
+    width: 75px;
+    height: 75px;
+    bordrert: 2px solid black;
+    margin.
+}
